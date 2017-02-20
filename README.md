@@ -1,5 +1,13 @@
 # Wakanda Server with TypeScript
 
+## Folders
+
+### client/
+Web client (ex. angular, react, etc.) that builds into the Wakanda Server web folder (server/app/web/).
+
+### server/
+Wakanda Server
+
 ## Usage
 
 1. clone git repository
