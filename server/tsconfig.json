@@ -2,9 +2,14 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es5",
-    "sourceMap": true,
-    "noLib" : true
+    "sourceMap": false,
+    "noLib": true
   },
+  "include": [
+    "./typings/**/*",
+    "./app/**/*",
+    "./app Solution/**/*"
+  ],
   "exclude": [
     "node_modules"
   ]

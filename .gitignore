@@ -7,7 +7,7 @@
 *.waPreferences
 # Wakanda log
 *.waLog
-*/Logs
+**/Logs/
 studio_log*
 # Wakanda code symbols
 *.waSym
@@ -35,7 +35,7 @@ sessionID.json
 */mobile/.sass-cache
 */mobile/plugins
 
-# mobile/web 
+# mobile/web
 node_modules/
 *.log
 
