@@ -1,0 +1,226 @@
+2017-02-16 15:00:01 [wakanda.supervisor] INFO - solution closed
+2017-02-16 15:00:01 [wakanda] INFO - Opens the solution "C:\wakanda\wakanda-apps\typescript\typescript Solution\typescript.waSolution" for running
+2017-02-16 15:00:01 [wakanda.typescript] INFO - Users and groups directory opened
+2017-02-16 15:00:01 [wakanda.typescript.typescript] INFO - Datastore opened
+2017-02-16 15:00:01 [wakanda.typescript.typescript] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-02-16 15:00:01 [wakanda.typescript.typescript] INFO - "typescript" project opened
+2017-02-16 15:00:01 [wakanda.typescript.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-02-16 15:00:01 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-02-16 15:00:01 [wakanda.typescript] INFO - "typescript" solution opened
+2017-02-16 15:00:01 [wakanda] INFO - Starts "typescript" solution
+2017-02-16 15:00:02 [wakanda.typescript.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-02-16 15:00:02 [wakanda.typescript.ServerAdmin] INFO - HTTP Server started
+2017-02-16 15:00:02 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project started
+2017-02-16 15:00:04 [wakanda.typescript.typescript] INFO - HTTP Server started
+2017-02-16 15:00:04 [wakanda.typescript.typescript] INFO - "typescript" project started
+2017-02-16 15:00:04 [wakanda.typescript.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-02-16 15:00:04 [wakanda.typescript.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-02-16 15:00:04 [wakanda.typescript.typescript] INFO - Executes the bootstrap file(s)
+2017-02-16 15:00:04 [wakanda.typescript.typescript] INFO - Bootstrap file(s) executed
+2017-02-16 15:00:04 [wakanda.typescript] INFO - "typescript" solution started
+2017-02-16 15:00:04 [wakanda] INFO - "typescript" solution has been successfully opened for running (duration: 3630 ms)
+2017-02-16 15:00:04 [wakanda.supervisor] INFO - solution opened
+2017-02-16 15:00:09 [wakanda] INFO - Stops "typescript" solution
+2017-02-16 15:00:11 [wakanda.typescript.typescript] INFO - "typescript" project stopped
+2017-02-16 15:00:13 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-02-16 15:00:13 [wakanda.typescript] INFO - "typescript" solution stopped
+2017-02-16 15:00:13 [wakanda] INFO - Closes "typescript" solution
+2017-02-16 15:00:13 [wakanda.typescript.typescript] INFO - "typescript" project closed
+2017-02-16 15:00:13 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-02-16 15:00:13 [wakanda.typescript] INFO - "typescript" solution closed
+2017-02-16 15:05:47 [wakanda.supervisor] INFO - solution closed
+2017-02-16 15:05:47 [wakanda] INFO - Opens the solution "C:\wakanda\wakanda-apps\typescript\typescript Solution\typescript.waSolution" for running
+2017-02-16 15:05:47 [wakanda.typescript] INFO - Users and groups directory opened
+2017-02-16 15:05:47 [wakanda.typescript.typescript] INFO - Datastore opened
+2017-02-16 15:05:47 [wakanda.typescript.typescript] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-02-16 15:05:47 [wakanda.typescript.typescript] INFO - "typescript" project opened
+2017-02-16 15:05:47 [wakanda.typescript.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-02-16 15:05:47 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-02-16 15:05:47 [wakanda.typescript] INFO - "typescript" solution opened
+2017-02-16 15:05:47 [wakanda] INFO - Starts "typescript" solution
+2017-02-16 15:05:48 [wakanda.typescript.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-02-16 15:05:48 [wakanda.typescript.ServerAdmin] INFO - HTTP Server started
+2017-02-16 15:05:48 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project started
+2017-02-16 15:05:49 [wakanda.typescript.typescript] INFO - HTTP Server started
+2017-02-16 15:05:49 [wakanda.typescript.typescript] INFO - "typescript" project started
+2017-02-16 15:05:49 [wakanda.typescript.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-02-16 15:05:50 [wakanda.typescript.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-02-16 15:05:50 [wakanda.typescript.typescript] INFO - Executes the bootstrap file(s)
+2017-02-16 15:05:50 [wakanda.typescript.typescript] INFO - Bootstrap file(s) executed
+2017-02-16 15:05:50 [wakanda.typescript] INFO - "typescript" solution started
+2017-02-16 15:05:50 [wakanda] INFO - "typescript" solution has been successfully opened for running (duration: 3631 ms)
+2017-02-16 15:05:50 [wakanda.supervisor] INFO - solution opened
+2017-02-16 15:18:58 [wakanda.typescript.typescript.xbox] ERROR - [600] Das System kann die angegebene Datei nicht finden.
+, task #2404, task name is HTTP connection handler
+2017-02-16 15:18:58 [wakanda.typescript.typescript.xbox] ERROR - [600] Das System kann die angegebene Datei nicht finden.
+, task #2404, task name is HTTP connection handler
+2017-02-16 15:18:58 [wakanda.typescript.typescript.xbox] ERROR - [203] , task #2404, task name is HTTP connection handler
+2017-02-16 15:18:58 [wakanda.typescript.typescript.iasv] ERROR - [1033] call to 'testResultsHandler' function failed, task #2404, task name is HTTP connection handler
+2017-02-16 15:18:58 [wakanda.HTTP] ERROR - [500] , task #2404, task name is HTTP connection handler
+2017-02-16 15:18:59 [wakanda.typescript.typescript.xbox] ERROR - [600] Das System kann die angegebene Datei nicht finden.
+, task #2296, task name is HTTP connection handler
+2017-02-16 15:18:59 [wakanda.typescript.typescript.xbox] ERROR - [600] Das System kann die angegebene Datei nicht finden.
+, task #2296, task name is HTTP connection handler
+2017-02-16 15:18:59 [wakanda.typescript.typescript.xbox] ERROR - [203] , task #2296, task name is HTTP connection handler
+2017-02-16 15:18:59 [wakanda.typescript.typescript.iasv] ERROR - [1033] call to 'testResultsHandler' function failed, task #2296, task name is HTTP connection handler
+2017-02-16 15:18:59 [wakanda.HTTP] ERROR - [500] , task #2296, task name is HTTP connection handler
+2017-02-16 15:19:02 [wakanda] INFO - Stops "typescript" solution
+2017-02-16 15:19:04 [wakanda.typescript.typescript] INFO - "typescript" project stopped
+2017-02-16 15:19:06 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-02-16 15:19:06 [wakanda.typescript] INFO - "typescript" solution stopped
+2017-02-16 15:19:06 [wakanda] INFO - Closes "typescript" solution
+2017-02-16 15:19:06 [wakanda.typescript.typescript] INFO - "typescript" project closed
+2017-02-16 15:19:06 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-02-16 15:19:07 [wakanda.typescript] INFO - "typescript" solution closed
+2017-02-16 15:19:21 [wakanda] INFO - Opens the solution "C:\wakanda\wakanda-apps\typescript\typescript Solution\typescript.waSolution" for running
+2017-02-16 15:19:21 [wakanda.typescript] INFO - Users and groups directory opened
+2017-02-16 15:19:21 [wakanda.typescript.typescript] INFO - Datastore opened
+2017-02-16 15:19:21 [wakanda.typescript.typescript] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-02-16 15:19:21 [wakanda.typescript.typescript] INFO - "typescript" project opened
+2017-02-16 15:19:21 [wakanda.typescript.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-02-16 15:19:21 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-02-16 15:19:21 [wakanda.typescript] INFO - "typescript" solution opened
+2017-02-16 15:19:21 [wakanda] INFO - Starts "typescript" solution
+2017-02-16 15:19:22 [wakanda.typescript.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-02-16 15:19:22 [wakanda.typescript.ServerAdmin] INFO - HTTP Server started
+2017-02-16 15:19:22 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project started
+2017-02-16 15:19:23 [wakanda.typescript.typescript] INFO - HTTP Server started
+2017-02-16 15:19:23 [wakanda.typescript.typescript] INFO - "typescript" project started
+2017-02-16 15:19:23 [wakanda.typescript.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-02-16 15:19:24 [wakanda.typescript.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-02-16 15:19:24 [wakanda.typescript.typescript] INFO - Executes the bootstrap file(s)
+2017-02-16 15:19:24 [wakanda.typescript.typescript] INFO - Bootstrap file(s) executed
+2017-02-16 15:19:24 [wakanda.typescript] INFO - "typescript" solution started
+2017-02-16 15:19:24 [wakanda] INFO - "typescript" solution has been successfully opened for running (duration: 3681 ms)
+2017-02-16 15:19:24 [wakanda.supervisor] INFO - solution opened
+2017-02-16 15:27:08 [wakanda] INFO - Stops "typescript" solution
+2017-02-16 15:27:10 [wakanda.typescript.typescript] INFO - "typescript" project stopped
+2017-02-16 15:27:12 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-02-16 15:27:12 [wakanda.typescript] INFO - "typescript" solution stopped
+2017-02-16 15:27:12 [wakanda] INFO - Closes "typescript" solution
+2017-02-16 15:27:12 [wakanda.typescript.typescript] INFO - "typescript" project closed
+2017-02-16 15:27:12 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-02-16 15:27:12 [wakanda.typescript] INFO - "typescript" solution closed
+2017-02-16 15:27:24 [wakanda] INFO - Opens the solution "C:\wakanda\wakanda-apps\typescript\typescript Solution\typescript.waSolution" for running
+2017-02-16 15:27:24 [wakanda.typescript] INFO - Users and groups directory opened
+2017-02-16 15:27:24 [IndexManager] INFO - Index  on User.ID built in 0 ms
+2017-02-16 15:27:24 [IndexManager] INFO - Index  on User.UUID built in 0 ms
+2017-02-16 15:27:24 [IndexManager] INFO - Index  on User.username built in 0 ms
+2017-02-16 15:27:24 [wakanda.typescript.typescript] INFO - Datastore opened
+2017-02-16 15:27:24 [wakanda.typescript.typescript] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-02-16 15:27:24 [wakanda.typescript.typescript] INFO - "typescript" project opened
+2017-02-16 15:27:24 [wakanda.typescript.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-02-16 15:27:24 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-02-16 15:27:24 [wakanda.typescript] INFO - "typescript" solution opened
+2017-02-16 15:27:24 [wakanda] INFO - Starts "typescript" solution
+2017-02-16 15:27:25 [wakanda.typescript.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-02-16 15:27:26 [wakanda.typescript.ServerAdmin] INFO - HTTP Server started
+2017-02-16 15:27:26 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project started
+2017-02-16 15:27:27 [wakanda.typescript.typescript] INFO - HTTP Server started
+2017-02-16 15:27:27 [wakanda.typescript.typescript] INFO - "typescript" project started
+2017-02-16 15:27:27 [wakanda.typescript.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-02-16 15:27:27 [wakanda.typescript.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-02-16 15:27:27 [wakanda.typescript.typescript] INFO - Executes the bootstrap file(s)
+2017-02-16 15:27:28 [wakanda.typescript.typescript] INFO - Bootstrap file(s) executed
+2017-02-16 15:27:28 [wakanda.typescript] INFO - "typescript" solution started
+2017-02-16 15:27:28 [wakanda] INFO - "typescript" solution has been successfully opened for running (duration: 3759 ms)
+2017-02-16 15:27:28 [wakanda.supervisor] INFO - solution opened
+2017-02-16 15:28:46 [wakanda.dbmg] ERROR - [1500] The "all" attribute cannot be found in The "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:46 [wakanda.dbmg] ERROR - [1500] The "all" attribute cannot be found in The "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:46 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "all" for the "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:51 [wakanda.dbmg] ERROR - [1500] The "all()" attribute cannot be found in The "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:51 [wakanda.dbmg] ERROR - [1500] The "all()" attribute cannot be found in The "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:51 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "all()" for the "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:57 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:57 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 15:28:57 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "method" for the "User" datastore class, task #3364, task name is HTTP connection handler
+2017-02-16 17:03:30 [wakanda] INFO - Stops "typescript" solution
+2017-02-16 17:03:32 [wakanda.typescript.typescript] INFO - "typescript" project stopped
+2017-02-16 17:03:34 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-02-16 17:03:34 [wakanda.typescript] INFO - "typescript" solution stopped
+2017-02-16 17:03:34 [wakanda] INFO - Closes "typescript" solution
+2017-02-16 17:03:34 [wakanda.typescript.typescript] INFO - "typescript" project closed
+2017-02-16 17:03:34 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-02-16 17:03:35 [wakanda.typescript] INFO - "typescript" solution closed
+2017-02-17 08:31:26 [wakanda] INFO - Opens the solution "C:\wakanda\wakanda-apps\typescript\typescript Solution\typescript.waSolution" for running
+2017-02-17 08:31:26 [wakanda.typescript] INFO - Users and groups directory opened
+2017-02-17 08:31:27 [wakanda.typescript.typescript] INFO - Datastore opened
+2017-02-17 08:31:27 [wakanda.typescript.typescript] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-02-17 08:31:27 [wakanda.typescript.typescript] INFO - "typescript" project opened
+2017-02-17 08:31:27 [wakanda.typescript.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-02-17 08:31:27 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-02-17 08:31:27 [wakanda.typescript] INFO - "typescript" solution opened
+2017-02-17 08:31:27 [wakanda] INFO - Starts "typescript" solution
+2017-02-17 08:31:28 [wakanda.typescript.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-02-17 08:31:28 [wakanda.typescript.ServerAdmin] INFO - HTTP Server started
+2017-02-17 08:31:28 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project started
+2017-02-17 08:31:29 [wakanda.typescript.typescript] INFO - HTTP Server started
+2017-02-17 08:31:29 [wakanda.typescript.typescript] INFO - "typescript" project started
+2017-02-17 08:31:29 [wakanda.typescript.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-02-17 08:31:30 [wakanda.typescript.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-02-17 08:31:30 [wakanda.typescript.typescript] INFO - Executes the bootstrap file(s)
+2017-02-17 08:31:30 [wakanda.typescript.typescript] INFO - Bootstrap file(s) executed
+2017-02-17 08:31:30 [wakanda.typescript] INFO - "typescript" solution started
+2017-02-17 08:31:30 [wakanda] INFO - "typescript" solution has been successfully opened for running (duration: 3935 ms)
+2017-02-17 08:31:30 [wakanda.supervisor] INFO - solution opened
+2017-02-17 09:30:18 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2820, task name is HTTP connection handler
+2017-02-17 09:30:18 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2820, task name is HTTP connection handler
+2017-02-17 09:30:18 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "method" for the "User" datastore class, task #2820, task name is HTTP connection handler
+2017-02-17 09:30:25 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #4480, task name is HTTP connection handler
+2017-02-17 09:30:25 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #4480, task name is HTTP connection handler
+2017-02-17 09:30:25 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "method" for the "User" datastore class, task #4480, task name is HTTP connection handler
+2017-02-17 09:30:32 [wakanda] INFO - Stops "typescript" solution
+2017-02-17 09:30:33 [wakanda.typescript.typescript] INFO - "typescript" project stopped
+2017-02-17 09:30:35 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-02-17 09:30:35 [wakanda.typescript] INFO - "typescript" solution stopped
+2017-02-17 09:30:35 [wakanda] INFO - Closes "typescript" solution
+2017-02-17 09:30:37 [wakanda.typescript.typescript] INFO - "typescript" project closed
+2017-02-17 09:30:37 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-02-17 09:30:37 [wakanda.typescript] INFO - "typescript" solution closed
+2017-02-17 09:30:49 [wakanda.typescript] INFO - Users and groups directory opened
+2017-02-17 09:30:49 [wakanda.typescript.typescript] INFO - Datastore opened
+2017-02-17 09:30:49 [wakanda.typescript.typescript] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2017-02-17 09:30:49 [wakanda.typescript.typescript] INFO - "typescript" project opened
+2017-02-17 09:30:49 [wakanda.typescript.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2017-02-17 09:30:49 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project opened
+2017-02-17 09:30:49 [wakanda.typescript] INFO - "typescript" solution opened
+2017-02-17 09:30:49 [wakanda] INFO - Starts "typescript" solution
+2017-02-17 09:30:50 [wakanda.typescript.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2017-02-17 09:30:50 [wakanda.typescript.ServerAdmin] INFO - HTTP Server started
+2017-02-17 09:30:50 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project started
+2017-02-17 09:30:51 [wakanda.POSX] ERROR - [10054] Unknown error, task #3900, task name is HTTP connection handler
+2017-02-17 09:30:51 [wakanda.srvr] ERROR - [51] Socket connection broken, task #3900, task name is HTTP connection handler
+2017-02-17 09:30:51 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:30:51 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:30:51 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "method" for the "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:30:51 [wakanda.POSX] ERROR - [10054] Unknown error, task #2344, task name is HTTP connection handler
+2017-02-17 09:30:51 [wakanda.srvr] ERROR - [51] Socket connection broken, task #2344, task name is HTTP connection handler
+2017-02-17 09:30:51 [wakanda.typescript.typescript] INFO - HTTP Server started
+2017-02-17 09:30:51 [wakanda.typescript.typescript] INFO - "typescript" project started
+2017-02-17 09:30:51 [wakanda.typescript.ServerAdmin] INFO - Executes the bootstrap file(s)
+2017-02-17 09:30:52 [wakanda.typescript.ServerAdmin] INFO - Bootstrap file(s) executed
+2017-02-17 09:30:52 [wakanda.typescript.typescript] INFO - Executes the bootstrap file(s)
+2017-02-17 09:30:52 [wakanda.typescript.typescript] INFO - Bootstrap file(s) executed
+2017-02-17 09:30:52 [wakanda.typescript] INFO - "typescript" solution started
+2017-02-17 09:30:52 [wakanda] INFO - "typescript" solution has been successfully opened for running (duration: 3775 ms)
+2017-02-17 09:30:52 [wakanda.supervisor] INFO - solution opened
+2017-02-17 09:30:53 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2520, task name is HTTP connection handler
+2017-02-17 09:30:53 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2520, task name is HTTP connection handler
+2017-02-17 09:30:53 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "method" for the "User" datastore class, task #2520, task name is HTTP connection handler
+2017-02-17 09:30:56 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2520, task name is HTTP connection handler
+2017-02-17 09:30:56 [wakanda.dbmg] ERROR - [1500] The "method" attribute cannot be found in The "User" datastore class, task #2520, task name is HTTP connection handler
+2017-02-17 09:30:56 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "method" for the "User" datastore class, task #2520, task name is HTTP connection handler
+2017-02-17 09:31:03 [wakanda.dbmg] ERROR - [1500] The "methods" attribute cannot be found in The "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:31:03 [wakanda.dbmg] ERROR - [1500] The "methods" attribute cannot be found in The "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:31:03 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "methods" for the "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:31:06 [wakanda.dbmg] ERROR - [1500] The "methods" attribute cannot be found in The "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:31:06 [wakanda.dbmg] ERROR - [1500] The "methods" attribute cannot be found in The "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 09:31:06 [wakanda.dbmg] ERROR - [1804] Cannot completely build a list of attributes with "methods" for the "User" datastore class, task #2344, task name is HTTP connection handler
+2017-02-17 10:10:15 [wakanda] INFO - Stops "typescript" solution
+2017-02-17 10:10:17 [wakanda.typescript.typescript] INFO - "typescript" project stopped
+2017-02-17 10:10:19 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project stopped
+2017-02-17 10:10:19 [wakanda.typescript] INFO - "typescript" solution stopped
+2017-02-17 10:10:19 [wakanda] INFO - Closes "typescript" solution
+2017-02-17 10:10:19 [wakanda.typescript.typescript] INFO - "typescript" project closed
+2017-02-17 10:10:19 [wakanda.typescript.ServerAdmin] INFO - "ServerAdmin" project closed
+2017-02-17 10:10:20 [wakanda.typescript] INFO - "typescript" solution closed
